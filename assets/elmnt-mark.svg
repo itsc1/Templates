@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 2048" width="2048" height="2048">
+  <title>ELMNT</title>
+  <!-- Stable public copy of app/icon.svg. The metadata-file version gets a
+       content-hashed URL, which a web app manifest cannot reference, so the
+       manifest + installed-app icons point here instead (T-162). -->
+  <rect x="0" y="0" width="2048" height="2048" rx="384" ry="384" fill="#fff"/>
+  <g transform="translate(1024,1024) scale(1.55) translate(-1016.5,-1020)">
+    <g fill="#000">
+      <path d="M 557 548 L 557 1251 L 559 1492 L 1194 1491 L 1194 1432 L 619 1432 L 616 1429 L 617 613 L 619 610 L 623 609 L 1415 609 L 1418 612 L 1418 1214 L 1474 1214 L 1476 1213 L 1476 550 L 1234 548 Z"/>
+      <path d="M 812 802 L 811 1239 L 1224 1239 L 1225 1156 L 1222 1153 L 913 1153 L 910 1151 L 910 1067 L 912 1065 L 1178 1065 L 1178 979 L 913 979 L 910 976 L 910 891 L 912 889 L 1223 889 L 1225 887 L 1225 803 Z"/>
+    </g>
+    <g fill="#0d77ff">
+      <path d="M 1476 1270 L 1418 1270 L 1418 1429 L 1416 1431 L 1249 1432 L 1246 1435 L 1247 1491 L 1475 1492 Z"/>
+    </g>
+  </g>
+</svg>
